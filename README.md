@@ -1,4 +1,4 @@
-A terminal based snake game written in JAVA. 
+A simple terminal based snake game written in JAVA. 
 
 Description:
 
