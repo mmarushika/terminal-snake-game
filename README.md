@@ -1,1 +1,1 @@
-# terminal-snake-game
+A terminal based snake game. 
