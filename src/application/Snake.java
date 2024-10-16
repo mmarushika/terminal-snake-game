@@ -1,3 +1,5 @@
+package application;
+
 class Snake {
     //1 = LEFT
     //2 = RIGHT
