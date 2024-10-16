@@ -1,3 +1,5 @@
+package application;
+
 final public class Position {
     int x;
     int y;
