@@ -1,1 +1,1 @@
-A terminal based snake game. 
+A terminal based snake game written in JAVA. 
